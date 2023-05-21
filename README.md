@@ -1,2 +1,7 @@
-# LLIVROS_GIT-
-Livro Pro Git, escrito por Scott Chacon e Ben Straub e publicado pela Apress,  
+# LLIVROS_GE TAVARES 
+Eu gosto muito desse livro e acredito que todos deveriam ler pelo menos 1 vez, abstraindo imposições.
+
+
+Boa referência pra boas práticas  
+
+Estude e leia livro  no seu ritmo
