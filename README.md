@@ -1,7 +1,10 @@
 # LLIVROS_GE TAVARES 
-Eu gosto muito desse livro e acredito que todos deveriam ler pelo menos 1 vez, abstraindo imposições.
+Eu gosto muito  de ler  livro tecnicos e acredito que todos deveriam ler pelo menos 1 vez, 
+abstraindo imposições.
 
 
-Boa referência pra boas práticas  
+ É  otimo para referência pra boas práticas  
 
-Estude e leia livro  no seu ritmo
+Estude e leia livro  no seu ritmo ! 
+
+Curtiu? Compartilhe.
