@@ -14,5 +14,5 @@ Resumido : livros é otimo para referencia pra boas praticas !!
 
 Estude e leia livro no seu ritmo!
 
-Curtiu? Compartilhe.
+Curtiu? Compartilhe aí .
 
