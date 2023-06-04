@@ -1,0 +1,12 @@
+MOBI
+É um formato usado no software MobiPocket nas plataformas desktop e mobile. Livros neste formato podem ter extensões de ficheiros .prc e .mobi. O MOBI foi originalmente baseado no formato PalmDOC; adicionar tags HTML tornou possível criar uma versão de alta compressão que comprime os dados a um nível elevado. Existe um número de restrições de formatação – o texto não pode ser indentado e as tabelas e imagens inseridas não podem ser formatadas.
+
+
+https://convertio.co/pt/pdf-mobi/
+
+
+
+
+
+
+
