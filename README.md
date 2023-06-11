@@ -38,6 +38,6 @@ Esse repositório Github  inpirei  nos livros de programação gratuitos.
 
 Meu objetivo é lhe dar os insumos para que você possa começar a 
 LER E DESENVOLVER  .
-Estude e leia livro no seu ritmo!
+Estude e leia livro no seu ritmo! 
 
 Curtiu? Compartilhe aí .
