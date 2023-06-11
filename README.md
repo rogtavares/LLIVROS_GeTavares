@@ -1,8 +1,9 @@
 # LLIVROS_GE TAVARES 
+
 Eu gosto muito  de ler  livro tecnicos e acredito que todos deveriam ler 
 pelo menos 1 vez, abstraindo imposições,via  kindle (livro eletrônico)
-((O  Kindle é um dispositivo que, além de e-books, permite ler diversos 
-outros tipos de documentos, como PDFs e links da internet.))
+
+
 
 Antes de tudo, já comprei muitos livros (físicos) e caros . 
 Hoje tenho poucos  livros fisicos acabei doando, demais foram 
@@ -29,11 +30,10 @@ Microsoft Word (.DOC, .DOCX); HTML (.HTML, .HTM); RTF (.rtf); Text (.TXT); JPEG 
 )))
 
 
-
 Esse repositório Github  inpirei  nos livros de programação gratuitos. 
 ( https://github.com/EbookFoundation/free-programming-books ) 
 
-é um repositório mantido de forma colaborativa com listas de livros, cursos, podcasts/screencasts e outros recursos gratuitos sobre programação 
+É  um repositório mantido de forma colaborativa com listas de livros, cursos, podcasts  e outros recursos gratuitos sobre programação 
 
 
 Meu objetivo é lhe dar os insumos para que você possa começar a 
