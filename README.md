@@ -1,18 +1,20 @@
 # LLIVROS_GE TAVARES 
 
-Eu gosto muito  de ler  livro tecnicos e acredito que todos deveriam ler 
-pelo menos 1 vez, abstraindo imposições,via  kindle (livro eletrônico)
+Sou um grande fã de livros técnicos e acredito que todos 
+deveriam lê-los pelo menos uma vez, independentemente 
+de imposições, via  kindle (livro eletrônico)
 
 
+Já comprei muitos livros físicos caros, mas hoje tenho poucos. 
+Doei os demais e todos foram parar no Kindle, 
+que é muito mais prático e econômico.
 
-Antes de tudo, já comprei muitos livros (físicos) e caros . 
-Hoje tenho poucos  livros fisicos acabei doando, demais foram 
-todos parar no  kindle.
-Antigamente, eu não podia passar em um sebo ou livraria sem sair com 
- livros e revistas que ficavam parados na estante por tempo indefinido, 
-esperando o dia em que vou parar para ler o que comprei.
+Antigamente, eu não conseguia passar por uma livraria ou sebo 
+sem sair com livros e revistas que ficavam parados na 
+estante por tempo indefinido, esperando 
+o dia em que eu fosse ler o que comprei.
 
-Resumido : livros é ótimo para referencia pra boas praticas !! 
+Resumido : livros são ótimos para referência de boas práticas! 
 
 Índice Remissivo:
 
@@ -36,8 +38,7 @@ Esse repositório Github  inpirei  nos livros de programação gratuitos.
 É  um repositório mantido de forma colaborativa com listas de livros, cursos, podcasts  e outros recursos gratuitos sobre programação 
 
 
-Meu objetivo é lhe dar os insumos para que você possa começar a 
-LER E DESENVOLVER  .
+Meu objetivo é lhe fornecer os insumos necessários para que você possa começar a LER e DESENVOLVER.
 Estude e leia livro no seu ritmo! 
 
 Curtiu? Compartilhe aí .
