@@ -39,11 +39,6 @@ Microsoft Word (.DOC, .DOCX); HTML (.HTML, .HTM); RTF (.rtf); Text (.TXT); JPEG 
 )))
 
 
-Esse repositório Github  inpirei  nos livros de programação gratuitos. 
-( https://github.com/EbookFoundation/free-programming-books ) 
-
-É  um repositório mantido de forma colaborativa com listas de livros, cursos, podcasts  e outros recursos gratuitos sobre programação 
-
 
 Meu objetivo é lhe fornecer os insumos necessários para que você possa começar a LER e DESENVOLVER.
 Estude e leia livro no seu ritmo! 
