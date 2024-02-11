@@ -24,7 +24,14 @@ Resumido : livros são ótimos para referência de boas práticas!
 4._DEV_ /
 5._AWS_/
 6._CLOUD_ / 
-7._LInGUAGEM_ / 
+7._LINGUAGEM_ /
+8.0_CULTURAGERAL_/
+9.0 IA_/
+10_IoT_/
+11_API_/
+12_CERVEJA E VINHO_/
+
+
 
 
 (((O Kindle é compatível e pode ler os seguintes formatos de arquivo: 
