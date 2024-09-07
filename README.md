@@ -1,18 +1,15 @@
 # LLIVROS_GE TAVARES 
 
-Sou um grande fã de livros técnicos e acredito que todos 
-deveriam lê-los pelo menos uma vez, independentemente 
-de imposições, via  kindle (livro eletrônico)
+Sou um grande fã de livros técnicos e acredito que todos deveriam lê-los pelo menos uma vez, 
+independentemente de qualquer imposição. Hoje, utilizo o Kindle (livro eletrônico) como meu principal meio de leitura.
 
+Já investi em muitos livros físicos caros, mas hoje possuo poucos. Doei grande parte da minha coleção, e a maioria dos títulos que restaram agora estão no Kindle, que considero muito mais prático e econômico.
 
-Já comprei muitos livros físicos caros, mas hoje tenho poucos. 
-Doei os demais e todos foram parar no Kindle, 
-que é muito mais prático e econômico.
+Antes, eu não conseguia passar por uma livraria ou sebo sem sair com livros ou revistas que, muitas vezes, acabavam parados na estante por tempo indefinido, esperando o momento certo para serem lidos.
 
-Antigamente, eu não conseguia passar por uma livraria ou sebo 
-sem sair com livros e revistas que ficavam parados na 
-estante por tempo indefinido, esperando 
-o dia em que eu fosse ler o que comprei.
+Em resumo: livros são excelentes para referências e boas práticas! Obrigado, Amazon, e valeu, Jeff Bezos! 
+
+Kindle acima de tudo!
 
 Resumido : livros são ótimos para referência de boas práticas! 
 
@@ -30,6 +27,10 @@ Resumido : livros são ótimos para referência de boas práticas!
 10_IoT_/
 11_API_/
 12_CERVEJA E VINHO_/
+13_SALESFORCE_/ 
+
+
+v.4
 
 
 
