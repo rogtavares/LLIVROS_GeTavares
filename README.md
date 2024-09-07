@@ -30,18 +30,15 @@ Resumido : livros são ótimos para referência de boas práticas!
 13_SALESFORCE_/ 
 
 
-v.4
-
-
-
 
 (((O Kindle é compatível e pode ler os seguintes formatos de arquivo: 
 Microsoft Word (.DOC, .DOCX); HTML (.HTML, .HTM); RTF (.rtf); Text (.TXT); JPEG (.JPEG, .JPG); GIF (.GIF); PNG (.PNG); BMP (.BMP); PDF (.PDF) e EPUB (.EPUB).
 )))
 
 
-
 Meu objetivo é lhe fornecer os insumos necessários para que você possa começar a LER e DESENVOLVER.
 Estude e leia livro no seu ritmo! 
 
 Curtiu? Compartilhe aí .
+
+v.5
