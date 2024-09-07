@@ -7,11 +7,11 @@ Já investi em muitos livros físicos caros, mas hoje possuo poucos. Doei grande
 
 Antes, eu não conseguia passar por uma livraria ou sebo sem sair com livros ou revistas que, muitas vezes, acabavam parados na estante por tempo indefinido, esperando o momento certo para serem lidos.
 
-Em resumo: livros são excelentes para referências e boas práticas! Obrigado, Amazon, e valeu, Jeff Bezos! 
+Em resumo: livros são excelentes para referências e boas práticas! Obrigado, Amazon pela invenção do Kindle,e valeu, Jeff Bezos! 
 
-Kindle acima de tudo!
 
-Resumido : livros são ótimos para referência de boas práticas! 
+
+Resumido : Livros via Kindle são ótimos para referência de boas práticas! 
 
 Índice Remissivo:
 
