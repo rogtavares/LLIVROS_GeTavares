@@ -15,12 +15,15 @@ Em resumo: livros são excelentes para referências e boas práticas! Obrigado, 
 1._LOG_   /
 2._JAVA_  /
 3._GIT_  /
+
 4._DEV_ /
 5._AWS_/
 6._CLOUD_ / 
+
 7._LINGUAGEM_ /
 8.0_CULTURAGERAL_/
 9.0 IA_/
+
 10_IoT_/
 11_API_/
 12_CERVEJA E VINHO_/
@@ -34,10 +37,10 @@ DOC,.DOCX; HTML(.HTML,.HTM); RTF (.rtf); Text (.TXT); JPEG (.JPEG, .JPG); GIF (.
 
 
 Meu objetivo é lhe fornecer os insumos necessários para que você possa começar a LER e DESENVOLVER.
-
+Com o Kindle , você lê o que quiser, onde estiver.
 
 Estude e leia livro no seu ritmo! 
 
 Curtiu? Compartilhe aí .
 
-v.6
+v.9
