@@ -10,9 +10,6 @@ Antes, eu não conseguia passar por uma livraria ou sebo sem sair com livros ou 
 Em resumo: livros são excelentes para referências e boas práticas! Obrigado, Amazon pela invenção do Kindle,e valeu, Jeff Bezos! 
 
 
-
-Resumido : Livros via Kindle são ótimos para referência de boas práticas! 
-
 Índice Remissivo:
 
 1._LOG_   /
@@ -31,14 +28,16 @@ Resumido : Livros via Kindle são ótimos para referência de boas práticas!
 
 
 
-(((O Kindle é compatível e pode ler os seguintes formatos de arquivo: 
-Microsoft Word (.DOC, .DOCX); HTML (.HTML, .HTM); RTF (.rtf); Text (.TXT); JPEG (.JPEG, .JPG); GIF (.GIF); PNG (.PNG); BMP (.BMP); PDF (.PDF) e EPUB (.EPUB).
+(((O Kindle é compatível com seguintes formatos de arquivo: 
+DOC,.DOCX; HTML(.HTML,.HTM); RTF (.rtf); Text (.TXT); JPEG (.JPEG, .JPG); GIF (.GIF); PNG (.PNG); BMP (.BMP); PDF (.PDF) e EPUB (.EPUB).
 )))
 
 
 Meu objetivo é lhe fornecer os insumos necessários para que você possa começar a LER e DESENVOLVER.
+
+
 Estude e leia livro no seu ritmo! 
 
 Curtiu? Compartilhe aí .
 
-v.5
+v.6
