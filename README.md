@@ -17,8 +17,9 @@ Em resumo: livros são excelentes para referências e boas práticas! Obrigado, 
 3._GIT_  /
 
 4._DEV_ /
+4.5_DEV_ NEGOCIO/
 5._AWS_/
-6._CLOUD_ / 
+6._SALESFORCE_ / 
 
 7._LINGUAGEM_ /
 8.0_CULTURAGERAL_/
@@ -27,7 +28,7 @@ Em resumo: livros são excelentes para referências e boas práticas! Obrigado, 
 10_IoT_/
 11_API_/
 12_CERVEJA E VINHO_/
-13_SALESFORCE_/ 
+
 
 
 
@@ -47,4 +48,4 @@ Estude e leia livro no seu ritmo!
 
 Curtiu? Compartilhe aí .
 
-v.10 
+v.11
