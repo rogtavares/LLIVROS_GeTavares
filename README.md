@@ -35,12 +35,16 @@ Em resumo: livros são excelentes para referências e boas práticas! Obrigado, 
 DOC,.DOCX; HTML(.HTML,.HTM); RTF (.rtf); Text (.TXT); JPEG (.JPEG, .JPG); GIF (.GIF); PNG (.PNG); BMP (.BMP); PDF (.PDF) e EPUB (.EPUB).
 )))
 
+O Amazon Kindle é um aplicativo que fornece acesso a milhões de livros eletrônicos. 
+É uma solução perfeita também para entusiastas de revistas, palestras, jornais e revistas, disponíveis na Kindle Store.
+Devido à sincronização, o aplicativo permite a leitura de um determinado artigo em vários dispositivos.
+
 
 Meu objetivo é lhe fornecer os insumos necessários para que você possa começar a LER e DESENVOLVER.
-Com o Kindle , você lê o que quiser, onde estiver.
+Com o Amazon Kindle , você lê o que quiser, onde estiver.
 
 Estude e leia livro no seu ritmo! 
 
 Curtiu? Compartilhe aí .
 
-v.9
+v.10 
