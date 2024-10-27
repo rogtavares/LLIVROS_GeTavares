@@ -22,7 +22,7 @@ Em resumo: livros são excelentes para referências e boas práticas! Obrigado, 
 6._SALESFORCE_ / 
 
 7._LINGUAGEM_ /
-8.0_CULTURAGERAL_/
+8.0_CULTURA_/
 9.0 IA_/
 
 10_IoT_/
