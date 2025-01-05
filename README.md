@@ -30,8 +30,6 @@ Em resumo: livros são excelentes para referências e boas práticas! Obrigado, 
 12_CERVEJA E VINHO_/
 
 
-
-
 (((O Kindle é compatível com seguintes formatos de arquivo: 
 DOC,.DOCX; HTML(.HTML,.HTM); RTF (.rtf); Text (.TXT); JPEG (.JPEG, .JPG); GIF (.GIF); PNG (.PNG); BMP (.BMP); PDF (.PDF) e EPUB (.EPUB).
 )))
@@ -48,4 +46,4 @@ Estude e leia livro no seu ritmo!
 
 Curtiu? Compartilhe aí .
 
-v.11
+v.12
