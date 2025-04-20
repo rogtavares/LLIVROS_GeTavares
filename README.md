@@ -12,7 +12,7 @@ Este repositório visa compartilhar recursos e informações relevantes para que
 
 ## Índice Remissivo:
 
-1.  [GE](link_para_secao_GERAL)
+1.  [GE](https://github.com/rogtavares/LLIVROS_GeTavares/tree/main/1%20%5BGE%5D)
 2.  [JAVA][API](link_para_secao_java)
 3.  [GIT](link_para_secao_git)
 4.  [DEV](link_para_secao_DEV)
@@ -20,8 +20,8 @@ Este repositório visa compartilhar recursos e informações relevantes para que
 6.  [SALESFORCE](link_para_secao_Salesforce)
 7.  [OBERSABILIDADE](link_para_secao_Linguagem)
 8.  [CULTURA](link_para_secao_cultura)
-11.  [NEGOCIO.DEV](link_para_secao_IA)
-12. [CERVEJA E VINHO(link_para_secao_cerveja_e_vinho)
+11.  [NEGOCIO.DEV](https://github.com/rogtavares/LLIVROS_GeTavares/tree/main/11%20%5BNEGOCIO.DEV%5D)
+12. [CERVEJA E VINHO](link_para_secao_cerveja_e_vinho)
 15[IA](link_para_secao_IA)
 ## Sobre o Amazon Kindle:
 
