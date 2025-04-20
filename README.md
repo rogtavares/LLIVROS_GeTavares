@@ -13,7 +13,7 @@ Este repositório visa compartilhar recursos e informações relevantes para que
 ## Índice Remissivo:
 
 1.  [GE](link_para_secao_GERAL)
-2.  [JAVA](link_para_secao_java)
+2.  [JAVA][API](link_para_secao_java)
 3.  [GIT](link_para_secao_git)
 4.  [DEV](link_para_secao_DEV)
 5.  [AWS](link_para_secao_dev_negocio)
@@ -21,10 +21,8 @@ Este repositório visa compartilhar recursos e informações relevantes para que
 7.  [OBERSABILIDADE](link_para_secao_Linguagem)
 8.  [CULTURA](link_para_secao_cultura)
 11.  [NEGOCIO.DEV](link_para_secao_IA)
-10. [IoT](link_para_secao_IoT)
-11. [API](link_para_secao_API)
-12. [CERVEJA E VINHO](link_para_secao_cerveja_e_vinho)
-
+12. [CERVEJA E VINHO(link_para_secao_cerveja_e_vinho)
+15[IA](link_para_secao_IA)
 ## Sobre o Amazon Kindle:
 
 O Amazon Kindle é mais do que um dispositivo; é um portal para milhões de eBooks, revistas, periódicos e muito mais através do aplicativo Kindle. A funcionalidade de sincronização permite que você continue sua leitura em diversos dispositivos, tornando o aprendizado flexível e acessível.
