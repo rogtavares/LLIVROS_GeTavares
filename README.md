@@ -16,15 +16,14 @@ Este repositório visa compartilhar recursos e informações relevantes para que
 2.  [JAVA](link_para_secao_java)
 3.  [GIT](link_para_secao_git)
 4.  [DEV](link_para_secao_DEV)
-5.  [DEV_NEGOCIO](link_para_secao_dev_negocio)
-6.  [AWS](link_para_secao_AWS)
-7.  [SALESFORCE](link_para_secao_Salesforce)
-8.  [LINGUAGEM](link_para_secao_Linguagem)
-9.  [CULTURA](link_para_secao_cultura)
-10. [IA](link_para_secao_IA)
-11. [IoT](link_para_secao_IoT)
-12. [API](link_para_secao_API)
-13. [CERVEJA E VINHO](link_para_secao_cerveja_e_vinho)
+5.  [AWS](link_para_secao_dev_negocio)
+6.  [SALESFORCE](link_para_secao_Salesforce)
+7.  [OBERSABILIDADE](link_para_secao_Linguagem)
+8.  [CULTURA](link_para_secao_cultura)
+11.  [NEGOCIO.DEV](link_para_secao_IA)
+10. [IoT](link_para_secao_IoT)
+11. [API](link_para_secao_API)
+12. [CERVEJA E VINHO](link_para_secao_cerveja_e_vinho)
 
 ## Sobre o Amazon Kindle:
 
