@@ -13,16 +13,20 @@ Este repositório visa compartilhar recursos e informações relevantes para que
 ## Índice Remissivo:
 
 1.  [GE](https://github.com/rogtavares/LLIVROS_GeTavares/tree/main/1%20%5BGE%5D)
-2.  [JAVA][API](link_para_secao_java)
-3.  [GIT](link_para_secao_git)
-4.  [DEV](link_para_secao_DEV)
-5.  [AWS](link_para_secao_dev_negocio)
-6.  [SALESFORCE](link_para_secao_Salesforce)
-7.  [OBERSABILIDADE](link_para_secao_Linguagem)
-8.  [CULTURA](link_para_secao_cultura)
+2.  [JAVA e API](https://github.com/rogtavares/LLIVROS_GeTavares/tree/main/2%20%5BJAVA%5D%20%5BAPI%5D)
+3.  [GIT](https://github.com/rogtavares/LLIVROS_GeTavares/tree/main/3%20%5BGIT%5D)
+4.  [DEV](https://github.com/rogtavares/LLIVROS_GeTavares/tree/main/4%20%5BDEV%5D)
+5.  [AWS](https://github.com/rogtavares/LLIVROS_GeTavares/tree/main/5%20%5BAWS%5D)
+6.  [SALESFORCE](https://github.com/rogtavares/LLIVROS_GeTavares/tree/main/6%20%5BSALESFORCE%5D)
+7.  [OBSERVABILIDADE](https://github.com/rogtavares/LLIVROS_GeTavares/tree/main/7.%5BOBSERVABILIDADE%7D)
+8.  [CULTURA](https://github.com/rogtavares/LLIVROS_GeTavares/tree/main/8%20%5BCULTURA%5D)
 11.  [NEGOCIO.DEV](https://github.com/rogtavares/LLIVROS_GeTavares/tree/main/11%20%5BNEGOCIO.DEV%5D)
-12. [CERVEJA E VINHO](link_para_secao_cerveja_e_vinho)
+12. [CERVEJA E VINHO](lhttps://github.com/rogtavares/LLIVROS_GeTavares/tree/main/12%20%5BCERVEJA%20E%20VINHO%5D)
 15[IA](link_para_secao_IA)
+13. [GERAL DEV](https://github.com/rogtavares/LLIVROS_GeTavares/tree/main/13%20%5BGERAL%20DEV%5D)
+14. [IA](https://github.com/rogtavares/LLIVROS_GeTavares/tree/main/15%20%5BIA%5D)
+    
+    
 ## Sobre o Amazon Kindle:
 
 O Amazon Kindle é mais do que um dispositivo; é um portal para milhões de eBooks, revistas, periódicos e muito mais através do aplicativo Kindle. A funcionalidade de sincronização permite que você continue sua leitura em diversos dispositivos, tornando o aprendizado flexível e acessível.
