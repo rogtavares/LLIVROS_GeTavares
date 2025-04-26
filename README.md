@@ -29,7 +29,7 @@ Este repositório visa compartilhar recursos e informações relevantes para que
     
 ## Sobre o Amazon Kindle:
 
-O Amazon Kindle é mais do que um dispositivo; é um portal para milhões de eBooks, revistas, periódicos e muito mais através do aplicativo Kindle. A funcionalidade de sincronização permite que você continue sua leitura em diversos dispositivos, tornando o aprendizado flexível e acessível.
+O Amazon Kindle é mais do que um dispositivo , é um portal para milhões de eBooks, revistas, periódicos e muito mais através do aplicativo Kindle. A funcionalidade de sincronização permite que você continue sua leitura em diversos dispositivos, tornando o aprendizado flexível e acessível.
 
 **Meu objetivo é fornecer os recursos necessários para impulsionar sua jornada de leitura e desenvolvimento.** Com o Kindle, o conhecimento está ao seu alcance, onde e quando você quiser.
 
