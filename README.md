@@ -1,40 +1,1 @@
-# LIVROS_GE TAVARES
-
-Sou um grande fã de livros técnicos e acredito que todos deveriam lê-los pelo menos uma vez, independentemente de qualquer imposição. Hoje, utilizo o Kindle (livro eletrônico) como meu principal meio de leitura.
-
-Já investi em muitos livros físicos caros, mas hoje possuo poucos. Doei grande parte da minha coleção, e a maioria dos títulos que restaram agora estão no Kindle, que considero muito mais prático e econômico.
-
-Antes, eu não conseguia passar por uma livraria ou sebo sem sair com livros ou revistas que, muitas vezes, acabavam parados na estante por tempo indefinido, esperando o momento certo para serem lidos.
-
-Em resumo: livros são excelentes para referências e boas práticas! Obrigado, Amazon pela invenção do Kindle,e valeu, Jeff Bezos!
-
-Este repositório visa compartilhar recursos e informações relevantes para quem deseja iniciar ou aprofundar seus conhecimentos em diversas áreas, com foco em desenvolvimento e tecnologia.
-
-## Índice Remissivo:
-
-1.  [GE](https://github.com/rogtavares/LLIVROS_GeTavares/tree/main/1%20%5BGE%5D)
-2.  [JAVA e API](https://github.com/rogtavares/LLIVROS_GeTavares/tree/main/2%20%5BJAVA%5D%20%5BAPI%5D)
-3.  [GIT](https://github.com/rogtavares/LLIVROS_GeTavares/tree/main/3%20%5BGIT%5D)
-4.  [DEV](https://github.com/rogtavares/LLIVROS_GeTavares/tree/main/4%20%5BDEV%5D)
-5.  [AWS](https://github.com/rogtavares/LLIVROS_GeTavares/tree/main/5%20%5BAWS%5D)
-6.  [SALESFORCE](https://github.com/rogtavares/LLIVROS_GeTavares/tree/main/6%20%5BSALESFORCE%5D)
-7.  [OBSERVABILIDADE](https://github.com/rogtavares/LLIVROS_GeTavares/tree/main/7.%5BOBSERVABILIDADE%7D)
-8.  [CULTURA](https://github.com/rogtavares/LLIVROS_GeTavares/tree/main/8%20%5BCULTURA%5D)
-11.  [NEGOCIO.DEV](https://github.com/rogtavares/LLIVROS_GeTavares/tree/main/11%20%5BNEGOCIO.DEV%5D)
-12. [CERVEJA E VINHO](lhttps://github.com/rogtavares/LLIVROS_GeTavares/tree/main/12%20%5BCERVEJA%20E%20VINHO%5D)
-15[IA](link_para_secao_IA)
-13. [GERAL DEV](https://github.com/rogtavares/LLIVROS_GeTavares/tree/main/13%20%5BGERAL%20DEV%5D)
-14. [IA](https://github.com/rogtavares/LLIVROS_GeTavares/tree/main/15%20%5BIA%5D)
-    
-    
-## Sobre o Amazon Kindle:
-
-O Amazon Kindle é mais do que um dispositivo , é um portal para milhões de eBooks, revistas, periódicos e muito mais através do aplicativo Kindle. A funcionalidade de sincronização permite que você continue sua leitura em diversos dispositivos, tornando o aprendizado flexível e acessível.
-
-**Meu objetivo é fornecer os recursos necessários para impulsionar sua jornada de leitura e desenvolvimento.** Com o Kindle, o conhecimento está ao seu alcance, onde e quando você quiser.
-
-**Estude e aprenda no seu próprio ritmo!**
-
-Gostou? Compartilhe!
-
-v.17
+﻿# LIVROS_GE TAVARESSou um grande fã de livros técnicos e acredito que todos deveriam lê-los pelo menos uma vez, independentemente de qualquer imposição. Hoje, utilizo o Kindle (livro eletrônico) como meu principal meio de leitura.Já investi em muitos livros físicos caros, mas hoje possuo poucos. Doei grande parte da minha coleção, e a maioria dos títulos que restaram agora estão no Kindle, que considero muito mais prático e econômico.Antes, eu não conseguia passar por uma livraria ou sebo sem sair com livros ou revistas que, muitas vezes, acabavam parados na estante por tempo indefinido, esperando o momento certo para serem lidos.Em resumo: livros são excelentes para referências e boas práticas! Obrigado, Amazon pela invenção do Kindle,e valeu, Jeff Bezos!Este repositório visa compartilhar recursos e informações relevantes para quem deseja iniciar ou aprofundar seus conhecimentos em diversas áreas, com foco em desenvolvimento e tecnologia.## Índice Remissivo:1.  [GE](https://github.com/rogtavares/LLIVROS_GeTavares/tree/main/1%20%5BGE%5D)2.  [JAVA e API](https://github.com/rogtavares/LLIVROS_GeTavares/tree/main/2%20%5BJAVA%5D%20%5BAPI%5D)3.  [GIT](https://github.com/rogtavares/LLIVROS_GeTavares/tree/main/3%20%5BGIT%5D)4.  [DEV](https://github.com/rogtavares/LLIVROS_GeTavares/tree/main/4%20%5BDEV%5D)5.  [AWS](https://github.com/rogtavares/LLIVROS_GeTavares/tree/main/5%20%5BAWS%5D)6.  [SALESFORCE](https://github.com/rogtavares/LLIVROS_GeTavares/tree/main/6%20%5BSALESFORCE%5D)7.  [OBSERVABILIDADE](https://github.com/rogtavares/LLIVROS_GeTavares/tree/main/7.%5BOBSERVABILIDADE%7D)8.  [CULTURA](https://github.com/rogtavares/LLIVROS_GeTavares/tree/main/8%20%5BCULTURA%5D)11.  [NEGOCIO.DEV](https://github.com/rogtavares/LLIVROS_GeTavares/tree/main/11%20%5BNEGOCIO.DEV%5D)12. [CERVEJA E VINHO](lhttps://github.com/rogtavares/LLIVROS_GeTavares/tree/main/12%20%5BCERVEJA%20E%20VINHO%5D)15[IA](link_para_secao_IA)13. [GERAL DEV](https://github.com/rogtavares/LLIVROS_GeTavares/tree/main/13%20%5BGERAL%20DEV%5D)14. [IA](https://github.com/rogtavares/LLIVROS_GeTavares/tree/main/15%20%5BIA%5D)        ## Sobre o Amazon Kindle:O Amazon Kindle é mais do que um dispositivo , é um portal para milhões de eBooks, revistas, periódicos e muito mais através do aplicativo Kindle. A funcionalidade de sincronização permite que você continue sua leitura em diversos dispositivos, tornando o aprendizado flexível e acessível.**Meu objetivo é fornecer os recursos necessários para impulsionar sua jornada de leitura e desenvolvimento.** Com o Kindle, o conhecimento está ao seu alcance, onde e quando você quiser.**Estude e aprenda no seu próprio ritmo!**Gostou? Compartilhe!v.17
